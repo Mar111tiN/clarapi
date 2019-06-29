@@ -1,0 +1,4 @@
+ENV Variables:
+
+DATABASE_URL    ..      path to the SQL db
+DATA_PATH       ..      path to the picture data
